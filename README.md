@@ -23,7 +23,3 @@ Nosso tempo é precioso, e tarefas repetitivas podem ser grandes vilãs da produ
 Automatizar processos repetitivos e otimizar a rotina de departamentos logísticos, reduzindo erros manuais e ganhando eficiência no cálculo de fretes.
 
 Esse é um projeto muito legal, extremamente útil para praticar Python com a biblioteca Selenium. Além de melhorar a produtividade, é uma ótima forma de aprender mais sobre automação web e manipulação de dados com Pandas!
-
-
-
-#Python #Automação #Selenium #DataScience
